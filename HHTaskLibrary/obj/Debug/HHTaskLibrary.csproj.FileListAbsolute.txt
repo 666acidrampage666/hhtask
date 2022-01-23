@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\bin\Debug\HHTaskLibrary.dll
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\bin\Debug\HHTaskLibrary.pdb
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\obj\Debug\HHTaskLibrary.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\obj\Debug\HHTaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\obj\Debug\HHTaskLibrary.dll
+C:\Users\Администратор\Desktop\HHTaskLibrary-master\HHTaskLibrary\obj\Debug\HHTaskLibrary.pdb
